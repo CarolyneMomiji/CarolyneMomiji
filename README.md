@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carolyne Tso 👋</h1>
+<h1 align="center">Hi, I'm HY Carolyne Tso 👋</h1>
 
 <p align="center">
   <strong>Data Engineer in Training · Financial Accounting → Data · Python / SQL / RAG Pipelines</strong>
