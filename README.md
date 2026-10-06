@@ -65,6 +65,7 @@ A month-long, graded, team-built AI-assisted compliance review platform for fina
 * Built the **retrieval layer** for rule lookup, disclosure-by-absence detection, and precedent search, with a retrieval-quality evaluation harness (precision/recall/F1) to validate rule/precedent matching.
 * Designed and deployed **CI/CD** (GitHub Actions, deploy-on-merge to an Azure VM), including live incident response under a hard deadline — VM resource exhaustion, resizing, and CI regressions.
 * Took ownership of the Jira backlog after teammates fell behind, closing 60+ tickets across backend, AI, DevOps, and frontend.
+* Won the Challenge: https://intern.ops.glynac.ai/#hall-of-fame
 
 **Tech:** `FastAPI` `PostgreSQL` `pgvector` `Next.js` `Docker` `GitHub Actions` `Gemini (LLM + embeddings)` `Alembic` `pytest` `Playwright`
 
